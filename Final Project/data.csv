@@ -1,0 +1,342 @@
+title,Released_Year,runtime,genre,rating,gross,director,lead_actor,lead_actor_rank,lead_actor_total_revenue,lead_actor_avg_revenue,budget,release_date,release_month,release_season
+The Shawshank Redemption,1994,142,Drama,9.3,"28,341,469.00",Frank Darabont,Tim Robbins,1084,"414,235,635.00","23,013,091.00","25,000,000.00",9/23/1994,9,Fall
+The Dark Knight,2008,152,Action,9,"534,858,444.00",Christopher Nolan,Christian Bale,53,"5,869,521,575.00","150,500,553.00","185,000,000.00",7/11/2008,7,Summer
+The Godfather: Part II,1974,202,Crime,9,"57,300,000.00",Francis Ford Coppola,Al Pacino,203,"2,454,775,881.00","55,790,361.00","13,000,000.00",12/11/1974,12,Winter
+The Lord of the Rings: The Return of the King,2003,201,Action,8.9,"377,845,905.00",Peter Jackson,Elijah Wood,191,"2,523,777,553.00","109,729,459.00","94,000,000.00",12/17/2003,12,Winter
+Pulp Fiction,1994,154,Crime,8.9,"107,928,762.00",Quentin Tarantino,John Travolta,113,"3,998,729,052.00","71,405,876.00","8,000,000.00",9/10/1994,9,Fall
+Inception,2010,148,Action,8.8,"292,576,195.00",Christopher Nolan,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","160,000,000.00",7/16/2010,7,Summer
+Fight Club,1999,139,Drama,8.8,"37,030,102.00",David Fincher,Brad Pitt,35,"6,922,963,379.00","150,499,204.00","65,000,000.00",10/15/1999,10,Fall
+The Lord of the Rings: The Fellowship of the Ring,2001,178,Action,8.8,"315,544,750.00",Peter Jackson,Elijah Wood,191,"2,523,777,553.00","109,729,459.00","93,000,000.00",12/19/2001,12,Winter
+Forrest Gump,1994,142,Drama,8.8,"330,252,182.00",Robert Zemeckis,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","55,000,000.00",7/6/1994,7,Summer
+The Lord of the Rings: The Two Towers,2002,179,Action,8.7,"342,551,365.00",Peter Jackson,Elijah Wood,191,"2,523,777,553.00","109,729,459.00","94,000,000.00",12/18/2002,12,Winter
+The Matrix,1999,136,Action,8.7,"171,479,930.00",Lana Wachowski,Keanu Reeves,67,"5,192,902,178.00","103,858,044.00","65,000,000.00",3/31/1999,3,Spring
+Goodfellas,1990,146,Biography,8.7,"46,836,394.00",Martin Scorsese,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","25,000,000.00",9/19/1990,9,Fall
+Interstellar,2014,169,Adventure,8.6,"188,020,017.00",Christopher Nolan,Matthew McConaughey,142,"3,350,536,964.00","108,081,838.00","165,000,000.00",11/5/2014,11,Fall
+Saving Private Ryan,1998,169,Drama,8.6,"216,540,909.00",Steven Spielberg,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","65,000,000.00",7/24/1998,7,Summer
+The Green Mile,1999,189,Crime,8.6,"136,801,374.00",Frank Darabont,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","60,000,000.00",12/10/1999,12,Winter
+Se7en,1995,127,Crime,8.6,"100,125,643.00",David Fincher,Morgan Freeman,79,"4,811,640,108.00","96,232,802.00","30,000,000.00",9/22/1995,9,Fall
+The Silence of the Lambs,1991,118,Crime,8.6,"130,742,922.00",Jonathan Demme,Jodie Foster,317,"1,755,624,550.00","70,224,982.00","20,000,000.00",2/14/1991,2,Winter
+Joker,2019,122,Crime,8.5,"335,451,311.00",Todd Phillips,Joaquin Phoenix,269,"1,979,971,962.00","104,209,051.00","55,000,000.00",10/2/2019,10,Fall
+The Prestige,2006,130,Drama,8.5,"53,089,891.00",Christopher Nolan,Christian Bale,53,"5,869,521,575.00","150,500,553.00","40,000,000.00",10/20/2006,10,Fall
+The Departed,2006,151,Crime,8.5,"132,384,315.00",Martin Scorsese,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","90,000,000.00",10/6/2006,10,Fall
+The Pianist,2002,150,Biography,8.5,"32,572,577.00",Roman Polanski,Adrien Brody,642,"865,925,380.00","30,925,906.00","35,000,000.00",12/27/2002,12,Winter
+Gladiator,2000,155,Action,8.5,"187,705,427.00",Ridley Scott,Russell Crowe,100,"4,199,997,044.00","97,674,350.00","103,000,000.00",5/4/2000,5,Spring
+American History X,1998,119,Drama,8.5,"6,719,864.00",Tony Kaye,Edward Norton,368,"1,525,228,133.00","84,734,896.00","10,000,000.00",10/30/1998,10,Fall
+The Usual Suspects,1995,106,Crime,8.5,"23,341,568.00",Bryan Singer,Kevin Spacey,401,"1,434,515,709.00","68,310,272.00","6,000,000.00",8/16/1995,8,Summer
+Léon,1994,110,Action,8.5,"19,501,238.00",Luc Besson,Jean Reno,955,"494,956,660.00","35,354,047.00","16,000,000.00",11/18/1994,11,Fall
+Terminator 2: Judgment Day,1991,137,Action,8.5,"204,843,350.00",James Cameron,Arnold Schwarzenegger,88,"4,475,397,168.00","124,316,588.00","100,000,000.00",7/2/1991,7,Summer
+Back to the Future,1985,116,Adventure,8.5,"210,609,762.00",Robert Zemeckis,Michael J. Fox,265,"2,008,038,953.00","95,620,903.00","19,000,000.00",7/3/1985,7,Summer
+Dangal,2016,161,Action,8.4,"12,391,761.00",Nitesh Tiwari,Aamir Khan,942,"508,122,809.00","84,687,135.00","9,500,000.00",12/21/2016,12,Winter
+Avengers: Endgame,2019,181,Action,8.4,"858,373,000.00",Anthony Russo,Robert Downey Jr.,3,"14,346,904,626.00","326,066,014.00","400,000,000.00",4/23/2019,4,Spring
+Avengers: Infinity War,2018,149,Action,8.4,"678,815,482.00",Anthony Russo,Robert Downey Jr.,3,"14,346,904,626.00","326,066,014.00","300,000,000.00",4/25/2018,4,Spring
+Django Unchained,2012,165,Drama,8.4,"162,805,434.00",Quentin Tarantino,Jamie Foxx,148,"3,249,848,298.00","101,557,759.00","100,000,000.00",12/25/2012,12,Winter
+The Dark Knight Rises,2012,164,Action,8.4,"448,139,099.00",Christopher Nolan,Christian Bale,53,"5,869,521,575.00","150,500,553.00","230,000,000.00",7/19/2012,7,Summer
+Once Upon a Time in America,1984,229,Crime,8.4,"5,321,508.00",Sergio Leone,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","30,000,000.00",6/1/1984,6,Summer
+Raiders of the Lost Ark,1981,115,Action,8.4,"248,159,971.00",Steven Spielberg,Harrison Ford,26,"8,173,625,047.00","194,610,120.00","20,000,000.00",6/12/1981,6,Summer
+The Shining,1980,146,Drama,8.4,"44,017,374.00",Stanley Kubrick,Jack Nicholson,217,"2,388,895,450.00","79,629,848.00","19,000,000.00",5/23/1980,5,Spring
+Apocalypse Now,1979,147,Drama,8.4,"83,471,511.00",Francis Ford Coppola,Martin Sheen,1653,"196,737,790.00","8,942,627.00","31,500,000.00",8/15/1979,8,Summer
+Alien,1979,117,Horror,8.4,"78,900,000.00",Ridley Scott,Sigourney Weaver,349,"1,591,178,538.00","40,799,450.00","10,700,000.00",5/25/1979,5,Spring
+1917,2019,119,Drama,8.3,"159,227,644.00",Sam Mendes,Dean-Charles Chapman,1136,"389,140,440.00","389,140,440.00","100,000,000.00",12/25/2019,12,Winter
+Inglourious Basterds,2009,153,Adventure,8.3,"120,540,719.00",Quentin Tarantino,Brad Pitt,35,"6,922,963,379.00","150,499,204.00","70,000,000.00",8/21/2009,8,Summer
+Eternal Sunshine of the Spotless Mind,2004,108,Drama,8.3,"34,400,301.00",Michel Gondry,Jim Carrey,56,"5,621,794,672.00","187,393,156.00","20,000,000.00",3/19/2004,3,Spring
+Snatch,2000,104,Comedy,8.3,"30,328,156.00",Guy Ritchie,Jason Statham,47,"6,321,276,944.00","158,031,924.00","10,000,000.00",9/1/2000,9,Fall
+American Beauty,1999,122,Drama,8.3,"130,096,601.00",Sam Mendes,Kevin Spacey,401,"1,434,515,709.00","68,310,272.00","15,000,000.00",9/15/1999,9,Fall
+Good Will Hunting,1997,126,Drama,8.3,"138,433,435.00",Gus Van Sant,Robin Williams,81,"4,760,847,075.00","128,671,543.00","10,000,000.00",12/5/1997,12,Winter
+Toy Story,1995,81,Animation,8.3,"191,796,233.00",John Lasseter,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","30,000,000.00",11/22/1995,11,Fall
+Braveheart,1995,178,Biography,8.3,"75,600,000.00",Mel Gibson,Mel Gibson,83,"4,721,179,010.00","85,839,618.00","72,000,000.00",5/24/1995,5,Spring
+Full Metal Jacket,1987,116,Drama,8.3,"46,357,676.00",Stanley Kubrick,Matthew Modine,2360,"47,885,786.00","4,788,579.00","30,000,000.00",6/26/1987,6,Summer
+Aliens,1986,137,Action,8.3,"85,160,248.00",James Cameron,Sigourney Weaver,349,"1,591,178,538.00","40,799,450.00","17,000,000.00",7/18/1986,7,Summer
+Amadeus,1984,160,Biography,8.3,"51,973,029.00",Milos Forman,F. Murray Abraham,905,"538,378,479.00","76,911,211.00","18,000,000.00",9/19/1984,9,Fall
+Scarface,1983,170,Crime,8.3,"45,598,982.00",Brian De Palma,Al Pacino,203,"2,454,775,881.00","55,790,361.00","25,000,000.00",12/9/1983,12,Winter
+The Sting,1973,129,Comedy,8.3,"159,600,000.00",George Roy Hill,Paul Newman,362,"1,531,030,431.00","47,844,701.00","5,500,000.00",12/25/1973,12,Winter
+Lawrence of Arabia,1962,228,Adventure,8.3,"44,824,144.00",David Lean,Peter O'Toole,1916,"152,470,185.00","25,411,698.00","15,000,000.00",12/16/1962,12,Winter
+Green Book,2018,130,Biography,8.2,"85,080,171.00",Peter Farrelly,Viggo Mortensen,122,"3,696,827,333.00","142,185,667.00","23,000,000.00",11/16/2018,11,Fall
+"Three Billboards Outside Ebbing, Missouri",2017,115,Comedy,8.2,"54,513,740.00",Martin McDonagh,Frances McDormand,447,"1,316,584,954.00","119,689,541.00","12,000,000.00",11/10/2017,11,Fall
+Baahubali 2: The Conclusion,2017,167,Action,8.2,"20,186,659.00",S.S. Rajamouli,Prabhas,1377,"278,227,409.00","92,742,470.00","30,000,000.00",4/28/2017,4,Spring
+Warrior,2011,140,Action,8.2,"13,657,115.00",Gavin O'Connor,Tom Hardy,176,"2,753,145,701.00","144,902,405.00","25,000,000.00",9/9/2011,9,Fall
+Shutter Island,2010,138,Mystery,8.2,"128,012,934.00",Martin Scorsese,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","80,000,000.00",2/19/2010,2,Winter
+The Wolf of Wall Street,2013,180,Biography,8.2,"116,900,694.00",Martin Scorsese,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","100,000,000.00",12/25/2013,12,Winter
+There Will Be Blood,2007,158,Drama,8.2,"40,222,514.00",Paul Thomas Anderson,Daniel Day-Lewis,695,"809,327,264.00","53,955,151.00","25,000,000.00",12/26/2007,12,Winter
+Toy Story 3,2010,103,Animation,8.2,"415,004,880.00",Lee Unkrich,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","200,000,000.00",6/18/2010,6,Summer
+V for Vendetta,2006,132,Action,8.2,"70,511,035.00",James McTeigue,Hugo Weaving,1221,"346,491,939.00","38,499,104.00","50,000,000.00",3/17/2006,3,Spring
+Rang De Basanti,2006,167,Comedy,8.2,"2,197,331.00",Rakeysh Omprakash Mehra,Aamir Khan,942,"508,122,809.00","84,687,135.00","5,300,000.00",1/27/2006,1,Winter
+Batman Begins,2005,140,Action,8.2,"206,852,432.00",Christopher Nolan,Christian Bale,53,"5,869,521,575.00","150,500,553.00","150,000,000.00",6/15/2005,6,Summer
+A Beautiful Mind,2001,135,Biography,8.2,"170,742,341.00",Ron Howard,Russell Crowe,100,"4,199,997,044.00","97,674,350.00","78,000,000.00",12/21/2001,12,Winter
+L.A. Confidential,1997,138,Crime,8.2,"64,616,940.00",Curtis Hanson,Kevin Spacey,401,"1,434,515,709.00","68,310,272.00","35,000,000.00",9/19/1997,9,Fall
+Casino,1995,178,Crime,8.2,"42,438,300.00",Martin Scorsese,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","52,000,000.00",11/22/1995,11,Fall
+Unforgiven,1992,130,Drama,8.2,"101,157,447.00",Clint Eastwood,Clint Eastwood,204,"2,448,610,923.00","51,012,728.00","14,400,000.00",8/7/1992,8,Summer
+Indiana Jones and the Last Crusade,1989,127,Action,8.2,"197,171,806.00",Steven Spielberg,Harrison Ford,26,"8,173,625,047.00","194,610,120.00","48,000,000.00",5/24/1989,5,Spring
+Die Hard,1988,132,Action,8.2,"83,008,852.00",John McTiernan,Bruce Willis,39,"6,761,295,465.00","76,832,903.00","28,000,000.00",7/15/1988,7,Summer
+Raging Bull,1980,129,Biography,8.2,"23,383,987.00",Martin Scorsese,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","18,000,000.00",11/14/1980,11,Fall
+Logan,2017,137,Action,8.1,"226,277,068.00",James Mangold,Hugh Jackman,46,"6,366,826,328.00","176,856,287.00","127,000,000.00",2/23/2017,2,Winter
+Room,2015,118,Drama,8.1,"14,677,674.00",Lenny Abrahamson,Brie Larson,61,"5,456,416,367.00","419,724,336.00","13,000,000.00",10/16/2015,10,Fall
+The Grand Budapest Hotel,2014,99,Adventure,8.1,"59,100,318.00",Wes Anderson,Ralph Fiennes,71,"5,076,825,225.00","163,768,556.00","31,000,000.00",3/5/2014,3,Spring
+Gone Girl,2014,149,Drama,8.1,"167,767,189.00",David Fincher,Ben Affleck,70,"5,090,295,932.00","113,117,687.00","61,000,000.00",10/2/2014,10,Fall
+Hacksaw Ridge,2016,139,Biography,8.1,"67,209,615.00",Mel Gibson,Andrew Garfield,321,"1,735,205,408.00","133,477,339.00","40,000,000.00",11/3/2016,11,Fall
+Inside Out,2015,95,Animation,8.1,"356,461,711.00",Pete Docter,Ronnie Del Carmen,974,"484,829,737.00","484,829,737.00","175,000,000.00",6/12/2015,6,Summer
+12 Years a Slave,2013,134,Biography,8.1,"56,671,993.00",Steve McQueen,Chiwetel Ejiofor,131,"3,546,380,980.00","197,021,166.00","20,000,000.00",10/18/2013,10,Fall
+Rush,2013,123,Action,8.1,"26,947,624.00",Ron Howard,Daniel Brühl,1219,"347,356,239.00","24,811,160.00","38,000,000.00",9/13/2013,9,Fall
+Spotlight,2015,129,Biography,8.1,"45,055,776.00",Tom McCarthy,Mark Ruffalo,15,"9,788,293,690.00","425,577,987.00","20,000,000.00",11/6/2015,11,Fall
+Prisoners,2013,153,Crime,8.1,"61,002,302.00",Denis Villeneuve,Hugh Jackman,46,"6,366,826,328.00","176,856,287.00","46,000,000.00",9/19/2013,9,Fall
+Mad Max: Fury Road,2015,120,Action,8.1,"154,058,340.00",George Miller,Tom Hardy,176,"2,753,145,701.00","144,902,405.00","150,000,000.00",5/14/2015,5,Spring
+Gran Torino,2008,116,Drama,8.1,"148,095,302.00",Clint Eastwood,Clint Eastwood,204,"2,448,610,923.00","51,012,728.00","25,000,000.00",12/12/2008,12,Winter
+How to Train Your Dragon,2010,98,Animation,8.1,"217,581,231.00",Dean DeBlois,Chris Sanders,687,"818,868,422.00","409,434,211.00","165,000,000.00",3/26/2010,3,Spring
+Into the Wild,2007,148,Adventure,8.1,"18,354,356.00",Sean Penn,Emile Hirsch,1345,"294,955,761.00","9,831,859.00","20,000,000.00",9/21/2007,9,Fall
+Million Dollar Baby,2004,132,Drama,8.1,"100,492,203.00",Clint Eastwood,Hilary Swank,640,"867,120,627.00","41,291,458.00","30,000,000.00",12/15/2004,12,Winter
+Hotel Rwanda,2004,121,Biography,8.1,"23,530,892.00",Terry George,Don Cheadle,17,"9,027,488,223.00","392,499,488.00","17,500,000.00",12/22/2004,12,Winter
+Catch Me If You Can,2002,141,Biography,8.1,"164,615,351.00",Steven Spielberg,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","52,000,000.00",12/25/2002,12,Winter
+The Sixth Sense,1999,107,Drama,8.1,"293,506,292.00",M. Night Shyamalan,Bruce Willis,39,"6,761,295,465.00","76,832,903.00","40,000,000.00",1/15/1999,1,Winter
+The Truman Show,1998,103,Comedy,8.1,"125,618,201.00",Peter Weir,Jim Carrey,56,"5,621,794,672.00","187,393,156.00","60,000,000.00",6/5/1998,6,Summer
+Jurassic Park,1993,127,Action,8.1,"402,453,882.00",Steven Spielberg,Sam Neill,1039,"448,550,941.00","24,919,497.00","63,000,000.00",6/11/1993,6,Summer
+Dead Poets Society,1989,128,Comedy,8.1,"95,860,116.00",Peter Weir,Robin Williams,81,"4,760,847,075.00","128,671,543.00","16,400,000.00",6/2/1989,6,Summer
+Platoon,1986,120,Drama,8.1,"138,530,565.00",Oliver Stone,Charlie Sheen,602,"934,825,185.00","33,386,614.00","6,000,000.00",12/19/1986,12,Winter
+Blade Runner,1982,117,Action,8.1,"32,868,943.00",Ridley Scott,Harrison Ford,26,"8,173,625,047.00","194,610,120.00","28,000,000.00",6/25/1982,6,Summer
+The Elephant Man,1980,124,Biography,8.1,,David Lynch,Anthony Hopkins,98,"4,264,940,995.00","99,184,674.00","5,000,000.00",10/3/1980,10,Fall
+The Deer Hunter,1978,183,Drama,8.1,"48,979,328.00",Michael Cimino,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","15,000,000.00",12/8/1978,12,Winter
+Barry Lyndon,1975,185,Adventure,8.1,,Stanley Kubrick,Ryan O'Neal,1481,"246,678,402.00","49,335,680.00","11,000,000.00",12/18/1975,12,Winter
+Chinatown,1974,130,Drama,8.1,"29,000,000.00",Roman Polanski,Jack Nicholson,217,"2,388,895,450.00","79,629,848.00","6,000,000.00",6/21/1974,6,Summer
+Ben-Hur,1959,212,Adventure,8.1,"74,700,000.00",William Wyler,Charlton Heston,1493,"243,551,718.00","30,443,965.00","15,000,000.00",6/30/2016,6,Summer
+Bajrangi Bhaijaan,2015,163,Action,8,"8,178,001.00",Kabir Khan,Salman Khan,843,"594,075,298.00","39,605,020.00","13,000,000.00",7/16/2015,7,Summer
+La La Land,2016,128,Comedy,8,"151,101,803.00",Damien Chazelle,Ryan Gosling,145,"3,303,774,993.00","137,657,291.00","30,000,000.00",11/30/2016,11,Fall
+Lion,2016,118,Biography,8,"51,739,495.00",Garth Davis,Dev Patel,587,"964,996,548.00","68,928,325.00","12,000,000.00",11/25/2016,11,Fall
+The Martian,2015,144,Adventure,8,"228,433,663.00",Ridley Scott,Matt Damon,32,"7,316,585,246.00","159,056,201.00","108,000,000.00",9/30/2015,9,Fall
+Wonder,2017,113,Drama,8,"132,422,809.00",Stephen Chbosky,Jacob Tremblay,813,"630,613,737.00","63,061,374.00","20,000,000.00",10/17/2017,10,Fall
+The Imitation Game,2014,114,Biography,8,"91,125,683.00",Morten Tyldum,Benedict Cumberbatch,25,"8,280,878,398.00","414,043,920.00","15,000,000.00",11/14/2014,11,Fall
+Guardians of the Galaxy,2014,121,Action,8,"333,176,600.00",James Gunn,Chris Pratt,5,"14,148,650,762.00","589,527,115.00","170,000,000.00",7/31/2014,7,Summer
+Blade Runner 2049,2017,164,Action,8,"92,054,159.00",Denis Villeneuve,Harrison Ford,26,"8,173,625,047.00","194,610,120.00","185,000,000.00",9/29/2017,9,Fall
+Her,2014,126,Drama,8,"25,568,251.00",Spike Jonze,Joaquin Phoenix,269,"1,979,971,962.00","104,209,051.00","23,000,000.00",1/10/2014,1,Winter
+Bohemian Rhapsody,2018,134,Biography,8,"216,428,042.00",Bryan Singer,Rami Malek,226,"2,312,578,507.00","231,257,851.00","55,000,000.00",10/24/2018,10,Fall
+The Revenant,2015,156,Action,8,"183,637,894.00",Alejandro G. Iñárritu,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","135,000,000.00",12/25/2015,12,Winter
+The Perks of Being a Wallflower,2012,103,Drama,8,"17,738,570.00",Stephen Chbosky,Logan Lerman,689,"818,099,693.00","74,372,699.00","13,000,000.00",9/20/2012,9,Fall
+The Help,2011,146,Drama,8,"169,708,112.00",Tate Taylor,Emma Stone,189,"2,549,248,305.00","141,624,906.00","25,000,000.00",8/10/2011,8,Summer
+Deadpool,2016,108,Action,8,"363,070,709.00",Tim Miller,Ryan Reynolds,65,"5,258,501,244.00","128,256,128.00","58,000,000.00",2/9/2016,2,Winter
+My Name Is Khan,2010,165,Drama,8,"4,018,695.00",Karan Johar,Shah Rukh Khan,1006,"469,197,397.00","33,514,100.00","8,470,000.00",2/12/2010,2,Winter
+Black Swan,2010,108,Drama,8,"106,954,678.00",Darren Aronofsky,Natalie Portman,58,"5,592,174,916.00","164,475,733.00","13,000,000.00",12/3/2010,12,Winter
+The Avengers,2012,143,Action,8,"623,279,547.00",Joss Whedon,Robert Downey Jr.,3,"14,346,904,626.00","326,066,014.00","225,000,000.00",4/25/2012,4,Spring
+Dallas Buyers Club,2013,117,Biography,8,"27,298,285.00",Jean-Marc Vallée,Matthew McConaughey,142,"3,350,536,964.00","108,081,838.00","5,000,000.00",11/1/2013,11,Fall
+The Pursuit of Happyness,2006,117,Biography,8,"163,566,459.00",Gabriele Muccino,Will Smith,18,"9,005,074,051.00","243,380,380.00","55,000,000.00",12/15/2006,12,Winter
+Blood Diamond,2006,143,Adventure,8,"57,366,262.00",Edward Zwick,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","100,000,000.00",12/8/2006,12,Winter
+The Bourne Ultimatum,2007,115,Action,8,"227,471,070.00",Paul Greengrass,Matt Damon,32,"7,316,585,246.00","159,056,201.00","130,000,000.00",8/3/2007,8,Summer
+Casino Royale,2006,144,Action,8,"167,445,960.00",Martin Campbell,Daniel Craig,76,"4,864,395,250.00","286,140,897.00","102,000,000.00",11/17/2006,11,Fall
+Mar adentro,2004,126,Biography,8,"2,086,345.00",Alejandro Amenábar,Javier Bardem,141,"3,414,920,852.00","155,223,675.00","13,300,000.00",12/17/2004,12,Winter
+Cinderella Man,2005,144,Biography,8,"61,649,911.00",Ron Howard,Russell Crowe,100,"4,199,997,044.00","97,674,350.00","88,000,000.00",6/3/2005,6,Summer
+Big Fish,2003,125,Adventure,8,"66,257,002.00",Tim Burton,Ewan McGregor,54,"5,830,848,951.00","153,443,393.00","70,000,000.00",12/10/2003,12,Winter
+The Incredibles,2004,115,Animation,8,"261,441,092.00",Brad Bird,Craig T. Nelson,282,"1,894,521,169.00","631,507,056.00","92,000,000.00",10/22/2004,10,Fall
+Magnolia,1999,188,Drama,8,"22,455,976.00",Paul Thomas Anderson,Tom Cruise,7,"12,091,138,918.00","274,798,612.00","37,000,000.00",12/17/1999,12,Winter
+Sling Blade,1996,135,Drama,8,"24,475,416.00",Billy Bob Thornton,Billy Bob Thornton,1232,"341,166,341.00","17,058,317.00","4,833,610.00",11/20/1996,11,Fall
+Groundhog Day,1993,101,Comedy,8,"70,906,973.00",Harold Ramis,Bill Murray,119,"3,739,803,793.00","101,075,778.00","14,600,000.00",2/12/1993,2,Winter
+JFK,1991,189,Drama,8,"70,405,498.00",Oliver Stone,Kevin Costner,144,"3,318,085,321.00","79,002,031.00","40,000,000.00",12/20/1991,12,Winter
+Dances with Wolves,1990,181,Adventure,8,"184,208,848.00",Kevin Costner,Kevin Costner,144,"3,318,085,321.00","79,002,031.00","19,000,000.00",11/9/1990,11,Fall
+Do the Right Thing,1989,120,Comedy,8,"27,545,445.00",Spike Lee,Danny Aiello,2516,"42,749,976.00","7,124,996.00","6,000,000.00",6/30/1989,6,Summer
+Rain Man,1988,133,Drama,8,"178,800,000.00",Barry Levinson,Dustin Hoffman,166,"2,895,371,839.00","87,738,541.00","25,000,000.00",12/16/1988,12,Winter
+The Princess Bride,1987,98,Adventure,8,"30,857,814.00",Rob Reiner,Cary Elwes,1662,"195,007,818.00","13,000,521.00","15,000,000.00",9/25/1987,9,Fall
+The Terminator,1984,107,Action,8,"38,400,000.00",James Cameron,Arnold Schwarzenegger,88,"4,475,397,168.00","124,316,588.00","6,400,000.00",10/26/1984,10,Fall
+Gandhi,1982,191,Biography,8,"52,767,889.00",Richard Attenborough,Ben Kingsley,139,"3,440,389,491.00","143,349,562.00","22,000,000.00",12/8/1982,12,Winter
+Jaws,1975,124,Adventure,8,"260,000,000.00",Steven Spielberg,Roy Scheider,755,"730,379,945.00","182,594,986.00","12,000,000.00",6/20/1975,6,Summer
+Papillon,1973,151,Biography,8,"53,267,000.00",Franklin J. Schaffner,Steve McQueen,1208,"353,667,502.00","23,577,833.00","13,500,000.00",12/16/1973,12,Winter
+Butch Cassidy and the Sundance Kid,1969,110,Biography,8,"102,308,889.00",George Roy Hill,Paul Newman,362,"1,531,030,431.00","47,844,701.00","6,000,000.00",10/24/1969,10,Fall
+Planet of the Apes,1968,112,Adventure,8,"33,395,426.00",Franklin J. Schaffner,Charlton Heston,1493,"243,551,718.00","30,443,965.00","5,800,000.00",7/27/2001,7,Summer
+The Sound of Music,1965,172,Biography,8,"163,214,286.00",Robert Wise,Julie Andrews,683,"827,260,005.00","55,150,667.00","8,200,000.00",1/1/1965,1,Winter
+Doctor Zhivago,1965,197,Drama,8,"111,722,000.00",David Lean,Omar Sharif,1285,"319,690,686.00","63,938,137.00","11,000,000.00",12/22/1965,12,Winter
+Knives Out,2019,130,Comedy,7.9,"165,359,751.00",Rian Johnson,Daniel Craig,76,"4,864,395,250.00","286,140,897.00","40,000,000.00",11/27/2019,11,Fall
+Marriage Story,2019,137,Comedy,7.9,"2,000,000.00",Noah Baumbach,Adam Driver,73,"4,970,608,193.00","236,695,628.00","18,000,000.00",11/27/2019,11,Fall
+Captain Fantastic,2016,118,Comedy,7.9,"5,875,006.00",Matt Ross,Viggo Mortensen,122,"3,696,827,333.00","142,185,667.00","5,000,000.00",7/8/2016,7,Summer
+Thor: Ragnarok,2017,130,Action,7.9,"315,058,289.00",Taika Waititi,Chris Hemsworth,8,"12,086,145,082.00","431,648,039.00","180,000,000.00",10/25/2017,10,Fall
+Nightcrawler,2014,117,Crime,7.9,"32,381,218.00",Dan Gilroy,Jake Gyllenhaal,167,"2,870,876,978.00","89,714,906.00","8,500,000.00",10/31/2014,10,Fall
+Jojo Rabbit,2019,108,Comedy,7.9,"349,555.00",Taika Waititi,Roman Griffin Davis,2807,"33,370,906.00","16,685,453.00","14,000,000.00",10/18/2019,10,Fall
+Arrival,2016,116,Drama,7.9,"100,546,139.00",Denis Villeneuve,Amy Adams,172,"2,799,496,840.00","133,309,373.00","47,000,000.00",11/9/2016,11,Fall
+X-Men: Days of Future Past,2014,132,Action,7.9,"233,921,534.00",Bryan Singer,Patrick Stewart,186,"2,594,860,178.00","152,638,834.00","200,000,000.00",5/21/2014,5,Spring
+The Artist,2011,100,Comedy,7.9,"44,671,682.00",Michel Hazanavicius,Jean Dujardin,1167,"374,130,813.00","46,766,352.00","16,000,000.00",10/12/2011,10,Fall
+Edge of Tomorrow,2014,113,Action,7.9,"100,206,256.00",Doug Liman,Tom Cruise,7,"12,091,138,918.00","274,798,612.00","178,000,000.00",5/28/2014,5,Spring
+The Irishman,2019,209,Biography,7.9,"7,000,000.00",Martin Scorsese,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","159,000,000.00",11/1/2019,11,Fall
+Un prophète,2010,155,Crime,7.9,"2,084,637.00",Jacques Audiard,Tahar Rahim,2403,"46,217,867.00","4,201,624.00","13,000,000.00",2/26/2010,2,Winter
+Moon,2009,97,Drama,7.9,"5,009,677.00",Duncan Jones,Sam Rockwell,359,"1,540,484,369.00","53,120,151.00","5,000,000.00",6/12/2009,6,Summer
+District 9,2009,112,Action,7.9,"115,646,235.00",Neill Blomkamp,Sharlto Copley,1144,"385,228,371.00","48,153,546.00","30,000,000.00",8/14/2009,8,Summer
+The Wrestler,2008,109,Drama,7.9,"26,236,603.00",Darren Aronofsky,Mickey Rourke,428,"1,383,738,498.00","43,241,828.00","6,000,000.00",12/17/2008,12,Winter
+Star Trek,2009,127,Action,7.9,"257,730,019.00",J.J. Abrams,Chris Pine,120,"3,724,181,100.00","169,280,959.00","140,000,000.00",5/8/2009,5,Spring
+In Bruges,2008,107,Comedy,7.9,"7,757,130.00",Martin McDonagh,Colin Farrell,111,"4,031,997,423.00","115,199,926.00","15,000,000.00",2/8/2008,2,Winter
+Letters from Iwo Jima,2006,141,Action,7.9,"13,756,082.00",Clint Eastwood,Ken Watanabe,797,"651,583,116.00","93,083,302.00","13,000,000.00",12/20/2006,12,Winter
+Life of Pi,2012,127,Adventure,7.9,"124,987,023.00",Ang Lee,Suraj Sharma,830,"619,310,368.00","309,655,184.00","120,000,000.00",11/21/2012,11,Fall
+Fantastic Mr. Fox,2009,87,Animation,7.9,"21,002,919.00",Wes Anderson,George Clooney,75,"4,888,458,821.00","135,790,523.00","40,000,000.00",10/23/2009,10,Fall
+Iron Man,2008,126,Action,7.9,"318,412,101.00",Jon Favreau,Robert Downey Jr.,3,"14,346,904,626.00","326,066,014.00","186,000,000.00",5/2/2008,5,Spring
+Shaun of the Dead,2004,99,Comedy,7.9,"13,542,874.00",Edgar Wright,Simon Pegg,87,"4,502,402,667.00","173,169,333.00","5,000,000.00",9/24/2004,9,Fall
+Mystic River,2003,138,Crime,7.9,"90,135,191.00",Clint Eastwood,Sean Penn,668,"843,561,090.00","44,397,952.00","30,000,000.00",10/8/2003,10,Fall
+Harry Potter and the Prisoner of Azkaban,2004,142,Adventure,7.9,"249,358,727.00",Alfonso Cuarón,Daniel Radcliffe,24,"8,349,249,492.00","347,885,396.00","130,000,000.00",5/31/2004,5,Spring
+The Bourne Identity,2002,119,Action,7.9,"121,661,683.00",Doug Liman,Franka Potente,1502,"238,051,063.00","79,350,354.00","60,000,000.00",6/14/2002,6,Summer
+Children of Men,2006,109,Adventure,7.9,"35,552,383.00",Alfonso Cuarón,Julianne Moore,329,"1,699,534,614.00","39,524,061.00","76,000,000.00",12/25/2006,12,Winter
+Almost Famous,2000,122,Adventure,7.9,"32,534,850.00",Cameron Crowe,Billy Crudup,1596,"209,525,433.00","19,047,767.00","60,000,000.00",9/15/2000,9,Fall
+Boogie Nights,1997,155,Drama,7.9,"26,400,640.00",Paul Thomas Anderson,Mark Wahlberg,52,"6,039,098,406.00","128,491,455.00","15,000,000.00",10/10/1997,10,Fall
+True Romance,1993,119,Crime,7.9,"12,281,500.00",Tony Scott,Christian Slater,1448,"256,399,689.00","13,494,720.00","12,500,000.00",9/10/1993,9,Fall
+Edward Scissorhands,1990,105,Drama,7.9,"56,362,352.00",Tim Burton,Johnny Depp,12,"10,355,729,144.00","195,391,116.00","20,000,000.00",12/7/1990,12,Winter
+The Untouchables,1987,119,Crime,7.9,"76,270,454.00",Brian De Palma,Kevin Costner,144,"3,318,085,321.00","79,002,031.00","25,000,000.00",6/3/1987,6,Summer
+Brazil,1985,132,Drama,7.9,"9,929,135.00",Terry Gilliam,Jonathan Pryce,673,"838,544,369.00","69,878,697.00","15,000,000.00",5/31/1985,5,Spring
+The Blues Brothers,1980,133,Action,7.9,"57,229,890.00",John Landis,John Belushi,1235,"339,221,688.00","67,844,338.00","27,000,000.00",6/20/1980,6,Summer
+Spartacus,1960,197,Adventure,7.9,"30,000,000.00",Stanley Kubrick,Kirk Douglas,1772,"174,204,351.00","8,710,218.00","12,000,000.00",10/7/1960,10,Fall
+The Ten Commandments,1956,220,Adventure,7.9,"93,740,000.00",Cecil B. DeMille,Charlton Heston,1493,"243,551,718.00","30,443,965.00","13,500,000.00",10/5/1956,10,Fall
+The Gentlemen,2019,113,Action,7.8,,Guy Ritchie,Matthew McConaughey,142,"3,350,536,964.00","108,081,838.00","22,000,000.00",12/27/2019,12,Winter
+Dunkirk,2017,106,Action,7.8,"188,373,161.00",Christopher Nolan,Fionn Whitehead,936,"509,798,672.00","169,932,891.00","150,000,000.00",7/18/2017,7,Summer
+Hidden Figures,2016,127,Biography,7.8,"169,607,287.00",Theodore Melfi,Taraji P. Henson,596,"947,809,140.00","55,753,479.00","25,000,000.00",12/25/2016,12,Winter
+Kubo and the Two Strings,2016,101,Animation,7.8,"48,023,088.00",Travis Knight,Charlize Theron,103,"4,169,176,568.00","130,286,768.00","55,000,000.00",8/18/2016,8,Summer
+Manchester by the Sea,2016,137,Drama,7.8,"47,695,120.00",Kenneth Lonergan,Casey Affleck,1077,"419,479,714.00","26,217,482.00","8,500,000.00",11/17/2016,11,Fall
+The Hateful Eight,2015,168,Crime,7.8,"54,117,416.00",Quentin Tarantino,Samuel L. Jackson,1,"14,627,843,117.00","211,997,726.00","62,000,000.00",12/25/2015,12,Winter
+Little Women,2019,135,Drama,7.8,"108,101,214.00",Greta Gerwig,Saoirse Ronan,729,"775,516,235.00","43,084,235.00","42,000,000.00",12/25/2019,12,Winter
+Le passé,2013,130,Drama,7.8,"1,330,596.00",Asghar Farhadi,Bérénice Bejo,1975,"146,316,238.00","16,257,360.00","8,000,000.00",11/21/2013,11,Fall
+About Time,2013,123,Comedy,7.8,"15,322,921.00",Richard Curtis,Domhnall Gleeson,370,"1,512,197,139.00","252,032,857.00","12,000,000.00",9/4/2013,9,Fall
+Toy Story 4,2019,100,Animation,7.8,"434,038,008.00",Josh Cooley,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","200,000,000.00",6/20/2019,6,Summer
+Moonrise Kingdom,2012,94,Comedy,7.8,"45,512,466.00",Wes Anderson,Jared Gilman,2430,"45,515,006.00","15,171,669.00","16,000,000.00",5/16/2012,5,Spring
+How to Train Your Dragon 2,2014,102,Animation,7.8,"177,002,924.00",Dean DeBlois,Jay Baruchel,261,"2,027,931,717.00","119,290,101.00","145,000,000.00",6/5/2014,6,Summer
+The Big Short,2015,130,Biography,7.8,"70,259,870.00",Adam McKay,Christian Bale,53,"5,869,521,575.00","150,500,553.00","28,000,000.00",12/11/2015,12,Winter
+The Girl with the Dragon Tattoo,2011,158,Crime,7.8,"102,515,793.00",David Fincher,Daniel Craig,76,"4,864,395,250.00","286,140,897.00","90,000,000.00",12/20/2011,12,Winter
+Captain Phillips,2013,134,Adventure,7.8,"107,100,855.00",Paul Greengrass,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","55,000,000.00",10/11/2013,10,Fall
+The Hobbit: The Desolation of Smaug,2013,161,Adventure,7.8,"258,366,855.00",Peter Jackson,Ian McKellen,48,"6,293,326,445.00","331,227,708.00","250,000,000.00",12/12/2013,12,Winter
+Män som hatar kvinnor,2009,152,Crime,7.8,"10,095,170.00",Niels Arden Oplev,Michael Nyqvist,664,"848,605,303.00","169,721,061.00","13,000,000.00",5/29/2009,5,Spring
+The Trial of the Chicago 7,2020,129,Drama,7.8,,Aaron Sorkin,Eddie Redmayne,190,"2,542,822,396.00","231,165,672.00","35,000,000.00",10/2/2020,10,Fall
+Druk,2020,117,Comedy,7.8,,Thomas Vinterberg,Mads Mikkelsen,222,"2,329,912,332.00","145,619,521.00","5,700,000.00",10/9/2020,10,Fall
+The Fighter,2010,116,Biography,7.8,"93,617,009.00",David O. Russell,Mark Wahlberg,52,"6,039,098,406.00","128,491,455.00","11,000,000.00",12/10/2010,12,Winter
+Taken,2008,90,Action,7.8,"145,000,989.00",Pierre Morel,Liam Neeson,41,"6,688,763,972.00","111,479,400.00","25,000,000.00",4/9/2008,4,Spring
+The Boy in the Striped Pyjamas,2008,94,Drama,7.8,"9,030,581.00",Mark Herman,Asa Butterfield,790,"667,225,451.00","51,325,035.00","12,500,000.00",11/7/2008,11,Fall
+The Hobbit: An Unexpected Journey,2012,169,Adventure,7.8,"303,003,568.00",Peter Jackson,Martin Freeman,64,"5,287,456,832.00","352,497,122.00","200,000,000.00",12/11/2012,12,Winter
+Atonement,2007,123,Drama,7.8,"50,927,067.00",Joe Wright,Keira Knightley,102,"4,176,250,848.00","149,151,816.00","30,000,000.00",12/7/2007,12,Winter
+Drive,2011,100,Crime,7.8,"35,061,555.00",Nicolas Winding Refn,Ryan Gosling,145,"3,303,774,993.00","137,657,291.00","15,000,000.00",9/16/2011,9,Fall
+American Gangster,2007,157,Biography,7.8,"130,164,645.00",Ridley Scott,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","100,000,000.00",11/2/2007,11,Fall
+Avatar,2009,162,Action,7.8,"760,507,625.00",James Cameron,Sam Worthington,42,"6,521,509,321.00","271,729,555.00","237,000,000.00",12/17/2009,12,Winter
+Mr. Nobody,2009,141,Drama,7.8,"3,600.00",Jaco Van Dormael,Jared Leto,415,"1,416,524,612.00","141,652,461.00","46,500,000.00",9/12/2009,9,Fall
+Hot Fuzz,2007,121,Action,7.8,"23,637,265.00",Edgar Wright,Simon Pegg,87,"4,502,402,667.00","173,169,333.00","16,000,000.00",2/16/2007,2,Winter
+The Curious Case of Benjamin Button,2008,166,Drama,7.8,"127,509,326.00",David Fincher,Brad Pitt,35,"6,922,963,379.00","150,499,204.00","160,000,000.00",12/25/2008,12,Winter
+Veer-Zaara,2004,192,Drama,7.8,"2,921,738.00",Yash Chopra,Shah Rukh Khan,1006,"469,197,397.00","33,514,100.00","7,000,000.00",11/12/2004,11,Fall
+Pride & Prejudice,2005,129,Drama,7.8,"38,405,088.00",Joe Wright,Keira Knightley,102,"4,176,250,848.00","149,151,816.00","28,000,000.00",11/11/2005,11,Fall
+The World's Fastest Indian,2005,127,Biography,7.8,"5,128,124.00",Roger Donaldson,Anthony Hopkins,98,"4,264,940,995.00","99,184,674.00","25,000,000.00",10/13/2005,10,Fall
+Walk the Line,2005,136,Biography,7.8,"119,519,402.00",James Mangold,Joaquin Phoenix,269,"1,979,971,962.00","104,209,051.00","29,000,000.00",11/18/2005,11,Fall
+Remember the Titans,2000,113,Biography,7.8,"115,654,751.00",Boaz Yakin,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","30,000,000.00",9/29/2000,9,Fall
+Cast Away,2000,143,Adventure,7.8,"233,632,142.00",Robert Zemeckis,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","85,000,000.00",12/22/2000,12,Winter
+The Insider,1999,157,Biography,7.8,"28,965,197.00",Michael Mann,Russell Crowe,100,"4,199,997,044.00","97,674,350.00","68,000,000.00",11/5/1999,11,Fall
+Titanic,1997,194,Drama,7.8,"659,325,379.00",James Cameron,Leonardo DiCaprio,31,"7,370,079,331.00","272,965,901.00","200,000,000.00",12/18/1997,12,Winter
+Gattaca,1997,106,Drama,7.8,"12,339,633.00",Andrew Niccol,Ethan Hawke,543,"1,058,331,282.00","24,052,984.00","36,000,000.00",10/24/1997,10,Fall
+The Game,1997,129,Action,7.8,"48,323,648.00",David Fincher,Michael Douglas,106,"4,080,303,574.00","113,341,766.00","50,000,000.00",9/12/1997,9,Fall
+Ed Wood,1994,127,Biography,7.8,"5,887,457.00",Tim Burton,Johnny Depp,12,"10,355,729,144.00","195,391,116.00","18,000,000.00",9/30/1994,9,Fall
+What's Eating Gilbert Grape,1993,118,Drama,7.8,"9,170,214.00",Lasse Hallström,Johnny Depp,12,"10,355,729,144.00","195,391,116.00","11,000,000.00",12/25/1993,12,Winter
+The Remains of the Day,1993,134,Drama,7.8,"22,954,968.00",James Ivory,Anthony Hopkins,98,"4,264,940,995.00","99,184,674.00","15,000,000.00",11/5/1993,11,Fall
+The Fugitive,1993,130,Action,7.8,"183,875,760.00",Andrew Davis,Harrison Ford,26,"8,173,625,047.00","194,610,120.00","44,000,000.00",8/6/1993,8,Summer
+Awakenings,1990,121,Biography,7.8,"52,096,475.00",Penny Marshall,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","29,000,000.00",12/19/1990,12,Winter
+Glory,1989,122,Biography,7.8,"26,830,000.00",Edward Zwick,Matthew Broderick,247,"2,105,089,991.00","110,794,210.00","18,000,000.00",12/13/1989,12,Winter
+Back to the Future Part II,1989,108,Adventure,7.8,"118,500,000.00",Robert Zemeckis,Michael J. Fox,265,"2,008,038,953.00","95,620,903.00","40,000,000.00",11/22/1989,11,Fall
+Predator,1987,107,Action,7.8,"59,735,548.00",John McTiernan,Arnold Schwarzenegger,88,"4,475,397,168.00","124,316,588.00","18,000,000.00",6/12/1987,6,Summer
+The Color Purple,1985,154,Drama,7.8,"98,467,863.00",Steven Spielberg,Danny Glover,393,"1,457,633,745.00","63,375,380.00","15,000,000.00",12/18/1985,12,Winter
+Ghostbusters,1984,105,Action,7.8,"238,632,124.00",Ivan Reitman,Bill Murray,119,"3,739,803,793.00","101,075,778.00","30,000,000.00",7/13/2016,7,Summer
+The Right Stuff,1983,193,Adventure,7.8,"21,500,000.00",Philip Kaufman,Sam Shepard,2106,"60,307,499.00","6,030,750.00","27,000,000.00",10/21/1983,10,Fall
+E.T. the Extra-Terrestrial,1982,115,Family,7.8,"435,110,554.00",Steven Spielberg,Henry Thomas,691,"816,308,814.00","90,700,979.00","10,500,000.00",6/11/1982,6,Summer
+Mary Poppins,1964,139,Comedy,7.8,"102,272,727.00",Robert Stevenson,Julie Andrews,683,"827,260,005.00","55,150,667.00","6,000,000.00",8/26/1964,8,Summer
+Deadpool 2,2018,119,Action,7.7,"324,591,735.00",David Leitch,Ryan Reynolds,65,"5,258,501,244.00","128,256,128.00","110,000,000.00",5/11/2018,5,Spring
+Get Out,2017,104,Horror,7.7,"176,040,665.00",Jordan Peele,Daniel Kaluuya,284,"1,889,798,386.00","314,966,398.00","5,000,000.00",2/24/2017,2,Winter
+The Theory of Everything,2014,123,Biography,7.7,"35,893,537.00",James Marsh,Eddie Redmayne,190,"2,542,822,396.00","231,165,672.00","15,000,000.00",11/7/2014,11,Fall
+Kingsman: The Secret Service,2015,129,Action,7.7,"128,261,724.00",Matthew Vaughn,Colin Firth,135,"3,482,460,452.00","99,498,870.00","94,000,000.00",1/29/2015,1,Winter
+The Fault in Our Stars,2014,126,Drama,7.7,"124,872,350.00",Josh Boone,Shailene Woodley,493,"1,172,167,413.00","65,120,412.00","12,000,000.00",6/4/2014,6,Summer
+Me and Earl and the Dying Girl,2015,105,Comedy,7.7,"6,743,776.00",Alfonso Gomez-Rejon,Thomas Mann,1720,"184,249,068.00","18,424,907.00","8,000,000.00",6/12/2015,6,Summer
+Birdman or (The Unexpected Virtue of Ignorance),2014,119,Comedy,7.7,"42,340,598.00",Alejandro G. Iñárritu,Michael Keaton,201,"2,470,609,573.00","117,648,075.00","18,000,000.00",10/17/2014,10,Fall
+Nebraska,2013,115,Adventure,7.7,"17,654,912.00",Alexander Payne,Bruce Dern,1489,"245,092,573.00","16,339,505.00","12,000,000.00",11/15/2013,11,Fall
+Wreck-It Ralph,2012,101,Animation,7.7,"189,422,889.00",Rich Moore,John C. Reilly,239,"2,158,856,737.00","107,942,837.00","165,000,000.00",11/1/2012,11,Fall
+Midnight in Paris,2011,96,Comedy,7.7,"56,816,662.00",Woody Allen,Owen Wilson,72,"5,010,646,357.00","135,422,875.00","30,000,000.00",5/20/2011,5,Spring
+Gravity,2013,91,Drama,7.7,"274,092,705.00",Alfonso Cuarón,Sandra Bullock,63,"5,400,503,732.00","158,838,345.00","110,000,000.00",10/3/2013,10,Fall
+Star Trek Into Darkness,2013,132,Action,7.7,"228,778,661.00",J.J. Abrams,Chris Pine,120,"3,724,181,100.00","169,280,959.00","190,000,000.00",5/16/2013,5,Spring
+The Social Network,2010,120,Biography,7.7,"96,962,694.00",David Fincher,Jesse Eisenberg,224,"2,324,953,862.00","89,421,302.00","40,000,000.00",10/1/2010,10,Fall
+The Hangover,2009,100,Comedy,7.7,"277,322,503.00",Todd Phillips,Zach Galifianakis,188,"2,559,026,179.00","159,939,136.00","35,000,000.00",6/5/2009,6,Summer
+Skyfall,2012,143,Action,7.7,"304,360,277.00",Sam Mendes,Daniel Craig,76,"4,864,395,250.00","286,140,897.00","200,000,000.00",10/26/2012,10,Fall
+Silver Linings Playbook,2012,122,Comedy,7.7,"132,092,958.00",David O. Russell,Bradley Cooper,9,"11,420,339,883.00","380,677,996.00","21,000,000.00",11/16/2012,11,Fall
+Argo,2012,120,Biography,7.7,"136,025,503.00",Ben Affleck,Ben Affleck,70,"5,090,295,932.00","113,117,687.00","44,500,000.00",10/11/2012,10,Fall
+(500) Days of Summer,2009,95,Comedy,7.7,"32,391,374.00",Marc Webb,Zooey Deschanel,1517,"232,049,675.00","33,149,954.00","7,500,000.00",7/17/2009,7,Summer
+Frost/Nixon,2008,122,Biography,7.7,"18,593,156.00",Ron Howard,Frank Langella,2382,"46,944,773.00","6,706,396.00","29,000,000.00",12/5/2008,12,Winter
+Changeling,2008,141,Biography,7.7,"35,739,802.00",Clint Eastwood,Angelina Jolie,110,"4,036,056,360.00","175,480,711.00","55,000,000.00",10/24/2008,10,Fall
+Ex Machina,2015,108,Drama,7.7,"25,442,958.00",Alex Garland,Alicia Vikander,535,"1,062,517,007.00","66,407,313.00","13,000,000.00",1/21/2015,1,Winter
+The Last King of Scotland,2006,123,Biography,7.7,"17,605,861.00",Kevin Macdonald,James McAvoy,136,"3,468,425,278.00","144,517,720.00","6,000,000.00",9/27/2006,9,Fall
+Zodiac,2007,157,Crime,7.7,"33,080,084.00",David Fincher,Jake Gyllenhaal,167,"2,870,876,978.00","89,714,906.00","85,000,000.00",3/2/2007,3,Spring
+Lucky Number Slevin,2006,110,Action,7.7,"22,494,487.00",Paul McGuigan,Josh Hartnett,568,"1,012,189,501.00","50,609,475.00","27,000,000.00",4/7/2006,4,Spring
+Joyeux Noël,2006,116,Drama,7.7,"1,054,361.00",Christian Carion,Diane Kruger,617,"898,972,493.00","52,880,735.00","22,000,000.00",3/3/2006,3,Spring
+Brokeback Mountain,2005,134,Drama,7.7,"83,043,761.00",Ang Lee,Jake Gyllenhaal,167,"2,870,876,978.00","89,714,906.00","13,900,000.00",12/9/2005,12,Winter
+3:10 to Yuma,2007,122,Action,7.7,"53,606,916.00",James Mangold,Russell Crowe,100,"4,199,997,044.00","97,674,350.00","48,000,000.00",9/7/2007,9,Fall
+The Bourne Supremacy,2004,108,Action,7.7,"176,241,941.00",Paul Greengrass,Matt Damon,32,"7,316,585,246.00","159,056,201.00","85,000,000.00",7/23/2004,7,Summer
+The Machinist,2004,101,Drama,7.7,"1,082,715.00",Brad Anderson,Christian Bale,53,"5,869,521,575.00","150,500,553.00","5,000,000.00",10/22/2004,10,Fall
+Ray,2004,152,Biography,7.7,"75,331,600.00",Taylor Hackford,Jamie Foxx,148,"3,249,848,298.00","101,557,759.00","40,000,000.00",10/29/2004,10,Fall
+Harry Potter and the Goblet of Fire,2005,157,Adventure,7.7,"290,013,036.00",Mike Newell,Daniel Radcliffe,24,"8,349,249,492.00","347,885,396.00","150,000,000.00",11/18/2005,11,Fall
+Man on Fire,2004,146,Action,7.7,"77,911,774.00",Tony Scott,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","60,000,000.00",4/23/2004,4,Spring
+Coraline,2009,100,Animation,7.7,"75,286,229.00",Henry Selick,Dakota Fanning,781,"697,527,764.00","31,705,807.00","60,000,000.00",2/6/2009,2,Winter
+The Last Samurai,2003,154,Action,7.7,"111,110,575.00",Edward Zwick,Tom Cruise,7,"12,091,138,918.00","274,798,612.00","140,000,000.00",12/5/2003,12,Winter
+I Am Sam,2001,132,Drama,7.7,"40,311,852.00",Jessie Nelson,Sean Penn,668,"843,561,090.00","44,397,952.00","22,000,000.00",12/28/2001,12,Winter
+Black Hawk Down,2001,144,Drama,7.7,"108,638,745.00",Ridley Scott,Josh Hartnett,568,"1,012,189,501.00","50,609,475.00","95,000,000.00",12/28/2001,12,Winter
+Road to Perdition,2002,117,Crime,7.7,"104,454,762.00",Sam Mendes,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","80,000,000.00",7/12/2002,7,Summer
+Billy Elliot,2000,110,Drama,7.7,"21,995,263.00",Stephen Daldry,Jamie Bell,747,"739,952,614.00","43,526,624.00","5,000,000.00",10/13/2000,10,Fall
+"South Park: Bigger, Longer & Uncut",1999,81,Animation,7.7,"52,037,603.00",Trey Parker,Trey Parker,510,"1,135,796,071.00","378,598,690.00","21,000,000.00",6/30/1999,6,Summer
+Office Space,1999,89,Comedy,7.7,"10,824,921.00",Mike Judge,Ron Livingston,2840,"32,433,111.00","2,948,465.00","10,000,000.00",2/19/1999,2,Winter
+Training Day,2001,122,Crime,7.7,"76,631,907.00",Antoine Fuqua,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","45,000,000.00",10/5/2001,10,Fall
+Rushmore,1998,93,Comedy,7.7,"17,105,219.00",Wes Anderson,Jason Schwartzman,717,"789,301,723.00","43,850,096.00","10,000,000.00",12/11/1998,12,Winter
+Being John Malkovich,1999,113,Comedy,7.7,"22,858,926.00",Spike Jonze,John Cusack,234,"2,249,636,122.00","38,129,426.00","13,000,000.00",10/29/1999,10,Fall
+As Good as It Gets,1997,139,Comedy,7.7,"148,478,011.00",James L. Brooks,Jack Nicholson,217,"2,388,895,450.00","79,629,848.00","50,000,000.00",12/24/1997,12,Winter
+The Fifth Element,1997,126,Action,7.7,"63,540,020.00",Luc Besson,Bruce Willis,39,"6,761,295,465.00","76,832,903.00","95,000,000.00",5/9/1997,5,Spring
+Donnie Brasco,1997,127,Biography,7.7,"41,909,762.00",Mike Newell,Al Pacino,203,"2,454,775,881.00","55,790,361.00","35,000,000.00",2/28/1997,2,Winter
+Shine,1996,105,Biography,7.7,"35,811,509.00",Scott Hicks,Geoffrey Rush,104,"4,131,571,549.00","258,223,222.00","5,500,000.00",8/15/1996,8,Summer
+Hamlet,1996,242,Drama,7.7,"4,414,535.00",Kenneth Branagh,Kenneth Branagh,254,"2,057,231,930.00","146,945,138.00","18,000,000.00",12/25/1996,12,Winter
+Philadelphia,1993,125,Drama,7.7,"77,324,422.00",Jonathan Demme,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","26,000,000.00",12/22/1993,12,Winter
+The Muppet Christmas Carol,1992,85,Comedy,7.7,"27,281,507.00",Brian Henson,Michael Caine,181,"2,642,468,274.00","75,499,094.00","12,000,000.00",12/11/1992,12,Winter
+Malcolm X,1992,202,Biography,7.7,"48,169,908.00",Spike Lee,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","35,000,000.00",11/18/1992,11,Fall
+The Last of the Mohicans,1992,112,Action,7.7,"75,505,856.00",Michael Mann,Daniel Day-Lewis,695,"809,327,264.00","53,955,151.00","40,000,000.00",9/25/1992,9,Fall
+Glengarry Glen Ross,1992,100,Crime,7.7,"10,725,228.00",James Foley,Al Pacino,203,"2,454,775,881.00","55,790,361.00","12,500,000.00",9/30/1992,9,Fall
+A Few Good Men,1992,138,Drama,7.7,"141,340,178.00",Rob Reiner,Tom Cruise,7,"12,091,138,918.00","274,798,612.00","33,000,000.00",12/11/1992,12,Winter
+Fried Green Tomatoes,1991,130,Drama,7.7,"82,418,501.00",Jon Avnet,Kathy Bates,1051,"438,485,398.00","36,540,450.00","11,000,000.00",12/27/1991,12,Winter
+The Verdict,1982,129,Drama,7.7,"54,000,000.00",Sidney Lumet,Paul Newman,362,"1,531,030,431.00","47,844,701.00","16,000,000.00",12/8/1982,12,Winter
+Star Trek II: The Wrath of Khan,1982,113,Action,7.7,"78,912,963.00",Nicholas Meyer,William Shatner,545,"1,054,763,093.00","75,340,221.00","12,000,000.00",6/4/1982,6,Summer
+First Blood,1982,93,Action,7.7,"47,212,904.00",Ted Kotcheff,Sylvester Stallone,69,"5,143,927,087.00","97,055,228.00","14,000,000.00",10/22/1982,10,Fall
+Ordinary People,1980,124,Drama,7.7,"54,800,000.00",Robert Redford,Donald Sutherland,1070,"429,753,614.00","19,534,255.00","6,200,000.00",9/19/1980,9,Fall
+Just Mercy,2019,137,Biography,7.6,,Destin Daniel Cretton,Michael B. Jordan,210,"2,414,991,835.00","127,104,833.00","25,000,000.00",12/25/2019,12,Winter
+Gifted,2017,101,Drama,7.6,"24,801,212.00",Marc Webb,Chris Evans,10,"11,227,419,767.00","400,979,277.00","7,000,000.00",4/7/2017,4,Spring
+Baby Driver,2017,113,Action,7.6,"107,825,862.00",Edgar Wright,Ansel Elgort,826,"622,829,544.00","69,203,283.00","34,000,000.00",6/28/2017,6,Summer
+Only the Brave,2017,134,Action,7.6,"18,340,051.00",Joseph Kosinski,Josh Brolin,22,"8,389,443,036.00","322,670,886.00","38,000,000.00",10/20/2017,10,Fall
+Bridge of Spies,2015,142,Drama,7.6,"72,313,754.00",Steven Spielberg,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","40,000,000.00",10/14/2015,10,Fall
+Incredibles 2,2018,118,Animation,7.6,"608,581,744.00",Brad Bird,Craig T. Nelson,282,"1,894,521,169.00","631,507,056.00","200,000,000.00",6/15/2018,6,Summer
+Sicario,2015,121,Action,7.6,"46,889,293.00",Denis Villeneuve,Emily Blunt,158,"3,041,274,792.00","104,871,545.00","30,000,000.00",9/17/2015,9,Fall
+Creed,2015,133,Drama,7.6,"109,767,581.00",Ryan Coogler,Michael B. Jordan,210,"2,414,991,835.00","127,104,833.00","37,000,000.00",11/25/2015,11,Fall
+Hell or High Water,2016,102,Action,7.6,"26,862,450.00",David Mackenzie,Chris Pine,120,"3,724,181,100.00","169,280,959.00","12,000,000.00",8/12/2016,8,Summer
+Philomena,2013,98,Biography,7.6,"37,707,719.00",Stephen Frears,Judi Dench,397,"1,449,060,966.00","72,453,048.00","12,000,000.00",11/1/2013,11,Fall
+Dawn of the Planet of the Apes,2014,130,Action,7.6,"208,545,589.00",Matt Reeves,Gary Oldman,564,"1,017,952,503.00","48,473,929.00","170,000,000.00",7/9/2014,7,Summer
+End of Watch,2012,109,Action,7.6,"41,003,371.00",David Ayer,Jake Gyllenhaal,167,"2,870,876,978.00","89,714,906.00","15,000,000.00",9/20/2012,9,Fall
+A Star Is Born,2018,136,Drama,7.6,"215,288,866.00",Bradley Cooper,Lady Gaga,840,"597,421,303.00","199,140,434.00","36,000,000.00",10/5/2018,10,Fall
+50/50,2011,100,Comedy,7.6,"35,014,192.00",Jonathan Levine,Joseph Gordon-Levitt,289,"1,868,729,810.00","77,863,742.00","8,000,000.00",9/30/2011,9,Fall
+Kick-Ass,2010,117,Action,7.6,"48,071,303.00",Matthew Vaughn,Aaron Taylor-Johnson,192,"2,521,867,314.00","210,155,610.00","28,000,000.00",4/16/2010,4,Spring
+Moneyball,2011,133,Biography,7.6,"75,605,492.00",Bennett Miller,Brad Pitt,35,"6,922,963,379.00","150,499,204.00","50,000,000.00",9/23/2011,9,Fall
+La piel que habito,2011,120,Drama,7.6,"3,185,812.00",Pedro Almodóvar,Antonio Banderas,123,"3,695,325,067.00","102,647,919.00","11,000,000.00",10/14/2011,10,Fall
+Zombieland,2009,88,Adventure,7.6,"75,590,286.00",Ruben Fleischer,Jesse Eisenberg,224,"2,324,953,862.00","89,421,302.00","23,600,000.00",10/2/2009,10,Fall
+Sherlock Holmes,2009,128,Action,7.6,"209,028,679.00",Guy Ritchie,Robert Downey Jr.,3,"14,346,904,626.00","326,066,014.00","90,000,000.00",12/25/2009,12,Winter
+Seven Pounds,2008,123,Drama,7.6,"69,951,824.00",Gabriele Muccino,Will Smith,18,"9,005,074,051.00","243,380,380.00","54,000,000.00",12/19/2008,12,Winter
+Eastern Promises,2007,100,Action,7.6,"17,114,882.00",David Cronenberg,Naomi Watts,600,"938,695,659.00","27,608,696.00","50,000,000.00",9/14/2007,9,Fall
+Stardust,2007,127,Adventure,7.6,"38,634,938.00",Matthew Vaughn,Charlie Cox,1936,"150,832,707.00","50,277,569.00","70,000,000.00",8/10/2007,8,Summer
+Inside Man,2006,129,Crime,7.6,"88,513,495.00",Spike Lee,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","50,000,000.00",3/24/2006,3,Spring
+Gone Baby Gone,2007,114,Crime,7.6,"20,300,218.00",Ben Affleck,Morgan Freeman,79,"4,811,640,108.00","96,232,802.00","19,000,000.00",10/19/2007,10,Fall
+The Illusionist,2006,110,Drama,7.6,"39,868,642.00",Neil Burger,Edward Norton,368,"1,525,228,133.00","84,734,896.00","16,500,000.00",8/18/2006,8,Summer
+Harry Potter and the Half-Blood Prince,2009,153,Action,7.6,"301,959,197.00",David Yates,Daniel Radcliffe,24,"8,349,249,492.00","347,885,396.00","250,000,000.00",7/15/2009,7,Summer
+300,2007,117,Action,7.6,"210,614,939.00",Zack Snyder,Gerard Butler,152,"3,200,625,668.00","100,019,552.00","60,000,000.00",3/9/2007,3,Spring
+Match Point,2005,124,Drama,7.6,"23,089,926.00",Woody Allen,Scarlett Johansson,2,"14,557,110,024.00","441,124,546.00","15,000,000.00",12/28/2005,12,Winter
+Watchmen,2009,162,Action,7.6,"107,509,799.00",Zack Snyder,Jackie Earle Haley,707,"800,440,014.00","114,348,573.00","138,000,000.00",3/6/2009,3,Spring
+Lord of War,2005,122,Action,7.6,"24,149,632.00",Andrew Niccol,Nicolas Cage,50,"6,084,022,622.00","64,042,343.00","42,000,000.00",9/16/2005,9,Fall
+"Synecdoche, New York",2008,124,Drama,7.6,"3,081,925.00",Charlie Kaufman,Philip Seymour Hoffman,1160,"376,058,808.00","26,861,343.00","20,000,000.00",10/24/2008,10,Fall
+Un long dimanche de fiançailles,2004,133,Drama,7.6,"6,167,817.00",Jean-Pierre Jeunet,Audrey Tautou,644,"864,243,079.00","78,567,553.00","55,000,000.00",11/26/2004,11,Fall
+21 Grams,2003,124,Crime,7.6,"16,290,476.00",Alejandro G. Iñárritu,Sean Penn,668,"843,561,090.00","44,397,952.00","20,000,000.00",11/21/2003,11,Fall
+Finding Neverland,2004,106,Biography,7.6,"51,680,613.00",Marc Forster,Johnny Depp,12,"10,355,729,144.00","195,391,116.00","25,000,000.00",11/12/2004,11,Fall
+The Royal Tenenbaums,2001,110,Comedy,7.6,"52,364,010.00",Wes Anderson,Gene Hackman,561,"1,024,905,078.00","53,942,373.00","28,000,000.00",12/14/2001,12,Winter
+The Others,2001,101,Horror,7.6,"96,522,687.00",Alejandro Amenábar,Nicole Kidman,114,"3,925,117,208.00","70,091,379.00","17,000,000.00",8/10/2001,8,Summer
+Blow,2001,124,Biography,7.6,"52,990,775.00",Ted Demme,Johnny Depp,12,"10,355,729,144.00","195,391,116.00","30,000,000.00",4/6/2001,4,Spring
+Enemy at the Gates,2001,131,Drama,7.6,"51,401,758.00",Jean-Jacques Annaud,Jude Law,93,"4,382,802,067.00","128,905,943.00","85,000,000.00",3/16/2001,3,Spring
+Minority Report,2002,145,Action,7.6,"132,072,926.00",Steven Spielberg,Tom Cruise,7,"12,091,138,918.00","274,798,612.00","102,000,000.00",6/21/2002,6,Summer
+The Hurricane,1999,146,Biography,7.6,"50,668,906.00",Norman Jewison,Denzel Washington,90,"4,429,199,312.00","90,391,823.00","38,000,000.00",12/29/1999,12,Winter
+American Psycho,2000,101,Comedy,7.6,"15,070,285.00",Mary Harron,Christian Bale,53,"5,869,521,575.00","150,500,553.00","8,000,000.00",4/14/2000,4,Spring
+Fear and Loathing in Las Vegas,1998,118,Adventure,7.6,"10,680,275.00",Terry Gilliam,Johnny Depp,12,"10,355,729,144.00","195,391,116.00","18,500,000.00",5/22/1998,5,Spring
+Dark City,1998,100,Mystery,7.6,"14,378,331.00",Alex Proyas,Rufus Sewell,1419,"265,392,117.00","44,232,020.00","27,000,000.00",2/27/1998,2,Winter
+Sleepers,1996,147,Crime,7.6,"49,100,000.00",Barry Levinson,Robert De Niro,68,"5,178,834,488.00","67,257,591.00","44,000,000.00",10/18/1996,10,Fall
+Sense and Sensibility,1995,136,Drama,7.6,"43,182,776.00",Ang Lee,Emma Thompson,165,"2,911,328,179.00","132,333,099.00","16,500,000.00",12/11/1995,12,Winter
+Die Hard: With a Vengeance,1995,128,Action,7.6,"100,012,499.00",John McTiernan,Bruce Willis,39,"6,761,295,465.00","76,832,903.00","90,000,000.00",5/19/1995,5,Spring
+The Bridges of Madison County,1995,135,Drama,7.6,"71,516,617.00",Clint Eastwood,Clint Eastwood,204,"2,448,610,923.00","51,012,728.00","22,000,000.00",6/2/1995,6,Summer
+Apollo 13,1995,140,Adventure,7.6,"173,837,933.00",Ron Howard,Tom Hanks,11,"10,857,762,422.00","193,888,615.00","65,000,000.00",6/30/1995,6,Summer
+My Cousin Vinny,1992,120,Comedy,7.6,"52,929,168.00",Jonathan Lynn,Joe Pesci,348,"1,602,095,988.00","200,261,999.00","11,000,000.00",3/13/1992,3,Spring
+Home Alone,1990,103,Comedy,7.6,"285,761,243.00",Chris Columbus,Macaulay Culkin,584,"970,652,065.00","194,130,413.00","15,000,000.00",11/16/1990,11,Fall
+The Godfather: Part III,1990,162,Crime,7.6,"66,666,062.00",Francis Ford Coppola,Al Pacino,203,"2,454,775,881.00","55,790,361.00","54,000,000.00",12/25/1990,12,Winter
+When Harry Met Sally...,1989,95,Comedy,7.6,"92,823,600.00",Rob Reiner,Billy Crystal,240,"2,151,912,678.00","134,494,542.00","16,000,000.00",7/14/1989,7,Summer
+Lethal Weapon,1987,109,Action,7.6,"65,207,127.00",Richard Donner,Mel Gibson,83,"4,721,179,010.00","85,839,618.00","15,000,000.00",3/6/1987,3,Spring
+Escape from Alcatraz,1979,112,Action,7.6,"43,000,000.00",Don Siegel,Clint Eastwood,204,"2,448,610,923.00","51,012,728.00","8,000,000.00",6/22/1979,6,Summer
+Close Encounters of the Third Kind,1977,138,Drama,7.6,"132,088,635.00",Steven Spielberg,Richard Dreyfuss,453,"1,281,295,154.00","80,080,947.00","20,000,000.00",11/16/1977,11,Fall
