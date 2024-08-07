@@ -1,0 +1,7 @@
+To use the FinalProject, both the FinalProject.ipynb and data.csv file need to be downloaded.
+The second cell in the FinalProject.ipynb file might need adjustment dependent upon the location of the data.csv file.
+This notebook was created using Colab and therefore uses a string that leads to the Google drive folder that houses the data file.
+Make sure to adjust this string on the pd.read_csv() call in cell 2.
+
+For the predictor, Budget and Runtime are both just numerical entries.
+For the Genre, Season, Lead Actor, and Director dropdowns are provided to choose from the categorical features in the dataset.
